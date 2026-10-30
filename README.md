@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Dheeraj K. Mani 👋
 
-<!--
-**dheerajk-mani/dheerajk-mani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior iOS & macOS Engineer
 
-Here are some ideas to get you started:
+I'm a software engineer with **9+ years of professional experience** building native applications across Apple's platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving platform-specific engineering challenges and creating reliable, maintainable, and polished applications.
+
+### 🛠️ Tech Stack
+
+- **Languages:** Swift, Objective-C
+- **iOS:** SwiftUI, UIKit, Core Data
+- **macOS:** AppKit, macOS development, system integration
+- **Tools:** Xcode, Git
+- **Engineering:** MVC, MVVM, REST API integration
+
+### 💼 Professional Experience
+
+- **IDrive Software** — Native macOS cloud backup and drive functionality.
+- **Muvi Entertainment** — OTT streaming applications and iOS team leadership.
+- **Freelance & Previous Roles** — Native iOS applications across video, education, and real estate domains.
+
+### 🌐 Connect With Me
+
+- **Portfolio:** [dheerajk-mani.github.io](https://dheerajk-mani.github.io/)
+- **LinkedIn:** [linkedin.com/in/dheerajkmani](https://www.linkedin.com/in/dheerajkmani)
+
+---
+
+*Building native Apple-platform experiences with Swift and Objective-C.*
